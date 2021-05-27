@@ -1,0 +1,2 @@
+# bytecoin
+The ByteCoin
